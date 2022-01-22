@@ -4,3 +4,5 @@
 Taller desarrollado por GDSC.
 
 ### HackWomen
+
+![hack](IMG/signal-2021-11-12-120313_001.jpeg)
