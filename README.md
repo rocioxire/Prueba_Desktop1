@@ -5,4 +5,4 @@ Taller desarrollado por GDSC.
 
 ### HackWomen
 
-### ![hack](.jpeg)
+### ![hack](c6777f8d54d1ad832bde2a56aab9a4b9.jpg)
